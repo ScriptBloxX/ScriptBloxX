@@ -6,7 +6,12 @@
 - I'm a 1st-year IT student at [SIT KMUTT](https://www.sit.kmutt.ac.th/).  
   I will keep posting my work here.
 
-<img width="15%" src="https://media1.giphy.com/media/wp0PWXANZck7BHr0TF/giphy.gif?cid=e1bb72ff5baf15247437786f637b2287">
+E = mc² (Errors = (more code)²)
+<p>
+  <img src="https://i.redd.it/rxdf6m0nqtv51.jpg" width="22%" />
+  <img src="https://media1.giphy.com/media/wp0PWXANZck7BHr0TF/giphy.gif?cid=e1bb72ff5baf15247437786f637b2287" width="20%" />
+  <img src="https://preview.redd.it/icanbutnotbecauseiamaprogrammer-v0-exny8fesrpgc1.jpeg?auto=webp&s=364aa12c56de13107aa19feae56681dbdcd0ce2f" width="20%" />
+</p>
 
 # Language & Tools <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -30,9 +35,13 @@
 <h3 align="center">STATUS</h3>
 
 [![Activity Graph](https://fabianocouto-activity-graph.vercel.app/graph/?username=ScriptBloxX&theme=tokyo-night&radius=6&area=true)](https://fabianocouto-activity-graph.vercel.app/graph/?username=ScriptBloxX&theme=tokyo-night&radius=6&area=true)
-<img align="left" width="47%" height="190px" src="https://github-readme-stats.vercel.app/api?username=ScriptBloxX&show_icons=true&theme=radical">  
-<img align="left" width="47%" height="190px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact">
-<br/><br/><br/><br/><br/><br/><br/><br/><br/>
+
+
+<br/>
+<img align="left" width="37%" height="190px" src="https://github-readme-stats.vercel.app/api?username=ScriptBloxX&show_icons=true&theme=radical">  
+<img align="left" width="37%" height="190px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSb25GMdu2qvHDPjSHPa7uAWFPMKkZjvmSDcvOY5PMv0w&s&ec=72940545" width="20%" />
+<br/>
 
 <hr>
 
@@ -42,7 +51,6 @@
 [<img src="https://img.shields.io/badge/<tondev_so>-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></img>](https://www.instagram.com/tondev_so/)
 
  My profile doesn't have much. just a formality.✌
-<!---
-ScriptBloxX/ScriptBloxX is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+<img src="https://i.redd.it/614klcbvkjy71.jpg" width="100%" height="200px" />
+
