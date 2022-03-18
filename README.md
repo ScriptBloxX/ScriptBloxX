@@ -7,10 +7,10 @@
 
 <h2>Connect with me  👀</h2>
 
-[<img align="left" width="44px" title="Facebook" src="https://cdn.discordapp.com/attachments/894762208121192529/903735945919086603/fb.png">](https://www.facebook.com/SorryItError/)
-[<img align="left" width="44px" title="Instagram" src="https://cdn.discordapp.com/attachments/894762208121192529/903735940965601310/ig.png">](https://www.instagram.com/tondev_so/)
-[<img align="left" width="44px" title="Discord" src="https://cdn.discordapp.com/attachments/894762208121192529/903735944623063040/dc.png">](https://discord.gg/4vQ5Zc7)
-[<img align="left" width="44px" title="Youtube" src="https://cdn.discordapp.com/attachments/894762208121192529/903735942492323860/yt.png">](https://www.youtube.com/channel/UCdfoRVcKcFl67VaAIpwbHSA)
+[<img align="left" width="44px" title="Facebook" target="_blank" src="https://cdn.discordapp.com/attachments/894762208121192529/903735945919086603/fb.png">](https://www.facebook.com/SorryItError/)
+[<img align="left" width="44px" title="Instagram" target="_blank" src="https://cdn.discordapp.com/attachments/894762208121192529/903735940965601310/ig.png">](https://www.instagram.com/tondev_so/)
+[<img align="left" width="44px" title="Discord" target="_blank" src="https://cdn.discordapp.com/attachments/894762208121192529/903735944623063040/dc.png">](https://discord.gg/4vQ5Zc7)
+[<img align="left" width="44px" title="Youtube" target="_blank" src="https://cdn.discordapp.com/attachments/894762208121192529/903735942492323860/yt.png">](https://www.youtube.com/channel/UCdfoRVcKcFl67VaAIpwbHSA)
 <br/>
 <h2></h2>
 <h2>Learning</h2>
