@@ -5,17 +5,22 @@
 
 - I'm a 1st year vocational [student](http://www.petkasem.ac.th/index.php/th/) (IT). <br/>I will keep posting my work here.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ScriptBloxX&show_icons=true&theme=radical)
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=ScriptBloxX&show_icons=true&theme=radical">  
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact">
+<br/><br/><br/><br/><br/><br/><br/><br/><br/>
 
-<h2>Connect with me  👀</h2>
+# Language & Tools
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 
-[<img align="left" width="44px" title="Facebook" target="_blank" src="https://cdn.discordapp.com/attachments/894762208121192529/903735945919086603/fb.png">](https://www.facebook.com/SorryItError/)
-[<img align="left" width="44px" title="Instagram" target="_blank" src="https://cdn.discordapp.com/attachments/894762208121192529/903735940965601310/ig.png">](https://www.instagram.com/tondev_so/)
-[<img align="left" width="44px" title="Discord" target="_blank" src="https://cdn.discordapp.com/attachments/894762208121192529/903735944623063040/dc.png">](https://discord.gg/4vQ5Zc7)
-[<img align="left" width="44px" title="Youtube" target="_blank" src="https://cdn.discordapp.com/attachments/894762208121192529/903735942492323860/yt.png">](https://www.youtube.com/channel/UCdfoRVcKcFl67VaAIpwbHSA)
-<br/>
-<h1></h1>
-My profile doesn't have much. just a formality.✌
+![Repl.it](https://img.shields.io/badge/Repl.it-%230D101E.svg?style=for-the-badge&logo=replit&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+
+ My profile doesn't have much. just a formality.✌
 <!---
 ScriptBloxX/ScriptBloxX is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
