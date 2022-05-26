@@ -5,9 +5,7 @@
 
 - I'm a 1st year vocational [student](http://www.petkasem.ac.th/index.php/th/) (IT). <br/>I will keep posting my work here.
 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=ScriptBloxX&show_icons=true&theme=radical">  
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact">
-<br/><br/><br/><br/><br/><br/><br/><br/><br/>
+<img width="15%" src="https://camo.githubusercontent.com/25f4341435db58189f8ec1d5933b531497ccbcbf4ba1ced12f677b308c7eea66/68747470733a2f2f632e74656e6f722e636f6d2f474e37334d4b4261775a5941414141692f627573792d637574652e676966">
 
 # Language & Tools
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -19,6 +17,15 @@
 
 ![Repl.it](https://img.shields.io/badge/Repl.it-%230D101E.svg?style=for-the-badge&logo=replit&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+
+<hr>
+<h3 align="center">STATUS</h3>
+
+<img align="left" width="47%" height="190px" src="https://github-readme-stats.vercel.app/api?username=ScriptBloxX&show_icons=true&theme=radical">  
+<img align="left" width="47%" height="190px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact">
+<br/><br/><br/><br/><br/><br/><br/><br/><br/>
+
+<hr>
 
 # Contact ME
 [<img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"></img>](https://www.facebook.com/???/)
