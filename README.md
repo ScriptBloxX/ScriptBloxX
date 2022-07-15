@@ -3,7 +3,7 @@
 - 👋 Hi, I’m @Ton
 - 🌱 I’m currently learning programming.
 
-- I'm a 1st year vocational [student](http://www.petkasem.ac.th/index.php/th/) (IT). <br/>I will keep posting my work here.
+- I'm a 2st year vocational [student](http://www.petkasem.ac.th/index.php/th/) (IT). <br/>I will keep posting my work here.
 
 <img width="15%" src="https://camo.githubusercontent.com/25f4341435db58189f8ec1d5933b531497ccbcbf4ba1ced12f677b308c7eea66/68747470733a2f2f632e74656e6f722e636f6d2f474e37334d4b4261775a5941414141692f627573792d637574652e676966">
 
