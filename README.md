@@ -7,7 +7,7 @@
 
 <img width="15%" src="https://camo.githubusercontent.com/25f4341435db58189f8ec1d5933b531497ccbcbf4ba1ced12f677b308c7eea66/68747470733a2f2f632e74656e6f722e636f6d2f474e37334d4b4261775a5941414141692f627573792d637574652e676966">
 
-# Language & Tools
+# Language & Tools <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
@@ -28,6 +28,7 @@
 <hr>
 <h3 align="center">STATUS</h3>
 
+[![Activity Graph](https://fabianocouto-activity-graph.vercel.app/graph/?username=ScriptBloxX&theme=tokyo-night&radius=6&area=true)](https://fabianocouto-activity-graph.vercel.app/graph/?username=ScriptBloxX&theme=tokyo-night&radius=6&area=true)
 <img align="left" width="47%" height="190px" src="https://github-readme-stats.vercel.app/api?username=ScriptBloxX&show_icons=true&theme=radical">  
 <img align="left" width="47%" height="190px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact">
 <br/><br/><br/><br/><br/><br/><br/><br/><br/>
