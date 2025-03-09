@@ -3,7 +3,8 @@
 - 👋 Hi, I’m @Ton
 - 🌱 I’m currently learning programming.
 
-- I'm a 3rd year vocational [student](http://www.petkasem.ac.th/index.php/th/) (IT). <br/>I will keep posting my work here.
+- I'm a 1st-year IT student at [SIT KMUTT](https://www.sit.kmutt.ac.th/).  
+  I will keep posting my work here.
 
 <img width="15%" src="https://media1.giphy.com/media/wp0PWXANZck7BHr0TF/giphy.gif?cid=e1bb72ff5baf15247437786f637b2287">
 
